@@ -83,3 +83,4 @@ The `EyeTracking` component is rendered with the desired props.
 
 If you find this library useful and want to support its development, consider buying me a coffee!
 
+![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
